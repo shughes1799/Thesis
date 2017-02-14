@@ -1,0 +1,1728 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.28)  14 FEB 2017 11:24
+entering extended mode
+**./masterSimon.tex
+(masterSimon.tex
+LaTeX2e <2016/03/31> patch level 2
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(customisations.sty
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count88
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count89
+\sf@farskip=\skip43
+\sf@captopadj=\dimen110
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count90
+\c@subfigure@save=\count91
+\c@lofdepth=\count92
+\c@subtable=\count93
+\c@subtable@save=\count94
+\c@lotdepth=\count95
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\dstroke\dsfont.sty"
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count97
+\Hy@pagecounter=\count98
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count99
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count100
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count101
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count102
+\c@Item=\count103
+\c@Hfootnote=\count104
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count105
+\c@bookmark@seq@number=\count106
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grffile.sty"
+Package: grffile 2016/05/16 v1.17 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip49
+\L@UnitsRaiseTextstyle=\skip50
+\L@UnitsRaiseScriptstyle=\skip51
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count107
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count108
+\c@@ppsavesec=\count109
+\c@@ppsaveapp=\count110
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen117
+\ttl@minus=\dimen118
+\ttl@toksa=\toks15
+\titlewidth=\dimen119
+\titlewidthlast=\dimen120
+\titlewidthfirst=\dimen121
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titletoc.sty"
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen122
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
+\Gm@bindingoffset=\dimen123
+\Gm@wd@mp=\dimen124
+\Gm@odd@mp=\dimen125
+\Gm@even@mp=\dimen126
+\Gm@layoutwidth=\dimen127
+\Gm@layoutheight=\dimen128
+\Gm@layouthoffset=\dimen129
+\Gm@layoutvoffset=\dimen130
+\Gm@dimlist=\toks16
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count114
+\lst@gtempboxa=\box27
+\lst@token=\toks17
+\lst@length=\count115
+\lst@currlwidth=\dimen131
+\lst@column=\count116
+\lst@pos=\count117
+\lst@lostspace=\dimen132
+\lst@width=\dimen133
+\lst@newlines=\count118
+\lst@lineno=\count119
+\lst@maxwidth=\dimen134
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count120
+\lst@skipnumbers=\count121
+\lst@framebox=\box28
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen135
+\lightrulewidth=\dimen136
+\cmidrulewidth=\dimen137
+\belowrulesep=\dimen138
+\belowbottomsep=\dimen139
+\aboverulesep=\dimen140
+\abovetopsep=\dimen141
+\cmidrulesep=\dimen142
+\cmidrulekern=\dimen143
+\defaultaddspace=\dimen144
+\@cmidla=\count122
+\@cmidlb=\count123
+\@aboverulesep=\dimen145
+\@belowrulesep=\dimen146
+\@thisruleclass=\count124
+\@lastruleclass=\count125
+\@thisrulewidth=\dimen147
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip65
+
+For additional information on amsmath, use the `?' option.
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen148
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count126
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count127
+\leftroot@=\count128
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count129
+\DOTSCASE@=\count130
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count131
+\c@MaxMatrixCols=\count132
+\dotsspace@=\muskip11
+\c@parentequation=\count133
+\dspbrk@lvl=\count134
+\tag@help=\toks19
+\row@=\count135
+\column@=\count136
+\maxfields@=\count137
+\andhelp@=\toks20
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks21
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(masterSimon.aux (Hodoscope/IntroAndTheory/IntroAndTheory.aux)
+(Hodoscope/JeffersonLabandCLAS/JeffersonLabandCLAS.aux)
+(Hodoscope/TheForwardTagger/TheForwardTagger.aux)
+(Hodoscope/Simulations/Simulations.aux) (Hodoscope/Beamtime/Beamtime.aux
+
+LaTeX Warning: Label `Frascati2SetupDiagram' multiply defined.
+
+) (Hodoscope/Construction/Construction.aux)
+(Hodoscope/SubSystems/SubSystems.aux
+
+LaTeX Warning: Label `FishtaleDeconstructed' multiply defined.
+
+
+LaTeX Warning: Label `FlashADC' multiply defined.
+
+) (Analysis/chapter2/chapter2Simon.aux) (literaturereview1/litrev1.aux))
+\openout1 = `masterSimon.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 27.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen157
+\scratchbox=\box31
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen158
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks24
+) ("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 27.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
+
+(masterSimon.out) (masterSimon.out)
+\@outlinefile=\write3
+\openout3 = `masterSimon.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 412.56497pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 674.33032pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=674.33032pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count145
+<thesis-frontmatter/crest.pdf, id=375, 614.295pt x 794.97pt>
+File: thesis-frontmatter/crest.pdf Graphic file (type pdf)
+
+<use thesis-frontmatter/crest.pdf>
+Package pdftex.def Info: thesis-frontmatter/crest.pdf used on input line 32.
+(pdftex.def)             Requested size: 206.28249pt x 266.95041pt.
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./thesis-frontmatter/cres
+t.pdf>] (thesis-frontmatter/abstract.tex)
+[1
+
+
+] (masterSimon.toc [2
+
+] [3] [4] [5])
+\tf@toc=\write4
+\openout4 = `masterSimon.toc'.
+
+ [6]
+\openout2 = `Hodoscope/IntroAndTheory/IntroAndTheory.aux'.
+
+
+(Hodoscope/IntroAndTheory/IntroAndTheory.tex
+Chapter 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 
+      [1
+
+
+
+]) [2]
+\openout2 = `Hodoscope/JeffersonLabandCLAS/JeffersonLabandCLAS.aux'.
+
+ (Hodoscope/JeffersonLabandCLAS/JeffersonLabandCLAS.tex
+Chapter 2.
+<ImgChap1/jlab1.jpg, id=625, 225.84375pt x 213.04594pt>
+File: ImgChap1/jlab1.jpg Graphic file (type jpg)
+
+<use ImgChap1/jlab1.jpg>
+Package pdftex.def Info: ImgChap1/jlab1.jpg used on input line 8.
+(pdftex.def)             Requested size: 247.54149pt x 233.5288pt.
+
+<ImgChap1/CEBAF1.png, id=627, 581.92406pt x 377.15906pt>
+File: ImgChap1/CEBAF1.png Graphic file (type png)
+
+<use ImgChap1/CEBAF1.png>
+Package pdftex.def Info: ImgChap1/CEBAF1.png used on input line 19.
+(pdftex.def)             Requested size: 247.54149pt x 160.43723pt.
+
+<ImgChap1/CEBAF.png, id=628, 475.7775pt x 377.15906pt>
+File: ImgChap1/CEBAF.png Graphic file (type png)
+
+<use ImgChap1/CEBAF.png>
+Package pdftex.def Info: ImgChap1/CEBAF.png used on input line 28.
+(pdftex.def)             Requested size: 247.54149pt x 196.23318pt.
+
+Underfull \hbox (badness 1215) in paragraph at lines 29--29
+[][]|\OT1/cmr/m/it/10.95 A schematic lay-out of CE-BAF af-ter the 12 GeV up-gra
+de is
+ []
+
+[3
+
+
+
+] [4 <./ImgChap1/jlab1.jpg> <./ImgChap1/CEBAF1.png (PNG copy)>]
+<ImgChap1/CLASPhoto.jpg, id=645, 578.6418pt x 433.62pt>
+File: ImgChap1/CLASPhoto.jpg Graphic file (type jpg)
+
+<use ImgChap1/CLASPhoto.jpg>
+Package pdftex.def Info: ImgChap1/CLASPhoto.jpg used on input line 51.
+(pdftex.def)             Requested size: 247.54149pt x 185.50018pt.
+ [5 <./ImgChap1/CEBAF.png (PNG copy)>]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 56.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 56.
+
+Missing character: There is no ° in font cmr12!
+<ImgChap1/CLAS1.png, id=654, 618.31pt x 564.1075pt>
+File: ImgChap1/CLAS1.png Graphic file (type png)
+ <use ImgChap1/CLAS1.png>
+Package pdftex.def Info: ImgChap1/CLAS1.png used on input line 60.
+(pdftex.def)             Requested size: 247.54149pt x 225.84558pt.
+
+[6 <./ImgChap1/CLASPhoto.jpg>]
+<ImgChap1/Brem1improved.png, id=674, 532.99126pt x 278.03876pt>
+File: ImgChap1/Brem1improved.png Graphic file (type png)
+
+<use ImgChap1/Brem1improved.png>
+Package pdftex.def Info: ImgChap1/Brem1improved.png used on input line 100.
+(pdftex.def)             Requested size: 371.30595pt x 193.70093pt.
+ [7 <./ImgChap1/CLAS1.png>] [8 <./ImgChap1/Brem1improved.png>] <ImgChap1/BremFa
+c.png, id=698, 655.69969pt x 371.88937pt>
+File: ImgChap1/BremFac.png Graphic file (type png)
+
+<use ImgChap1/BremFac.png>
+Package pdftex.def Info: ImgChap1/BremFac.png used on input line 125.
+(pdftex.def)             Requested size: 371.30595pt x 210.59454pt.
+
+Underfull \hbox (badness 2111) in paragraph at lines 126--126
+[][]|\OT1/cmr/m/it/10.95 Di-a-gram of the con-truc-tion of the bremsstrahlung p
+ro-duc-tion
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 126--126
+\OT1/cmr/m/it/10.95 mech-a-nism. In par-tic-u-lar high-light-ing, the ra-di-a-t
+or, vac-uum
+ []
+
+<ImgChap1/meson2.png, id=704, 2007.5pt x 2007.5pt>
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 140.
+(pdftex.def)             Requested size: 247.54149pt x 247.53674pt.
+
+<ImgChap1/mag.png, id=706, 335.75438pt x 369.63094pt>
+File: ImgChap1/mag.png Graphic file (type png)
+ <use ImgChap1/mag.png>
+Package pdftex.def Info: ImgChap1/mag.png used on input line 147.
+(pdftex.def)             Requested size: 247.54149pt x 272.51866pt.
+
+[9 <./ImgChap1/BremFac.png (PNG copy)>] [10 <./ImgChap1/meson2.png> <./ImgChap1
+/mag.png (PNG copy)>] <ImgChap1/mag1.png, id=721, 325.96782pt x 199.49532pt>
+File: ImgChap1/mag1.png Graphic file (type png)
+
+<use ImgChap1/mag1.png>
+Package pdftex.def Info: ImgChap1/mag1.png used on input line 156.
+(pdftex.def)             Requested size: 247.54149pt x 151.50232pt.
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 167.
+(pdftex.def)             Requested size: 247.54149pt x 247.53674pt.
+ [11 <./ImgChap1/mag1.png (PNG copy)>]
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 176.
+(pdftex.def)             Requested size: 247.54149pt x 247.53674pt.
+ [12]
+<ImgChap1/CLAS2.png, id=744, 438.13687pt x 427.5975pt>
+File: ImgChap1/CLAS2.png Graphic file (type png)
+
+<use ImgChap1/CLAS2.png>
+Package pdftex.def Info: ImgChap1/CLAS2.png used on input line 196.
+(pdftex.def)             Requested size: 247.54149pt x 241.5865pt.
+ [13]
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 211.
+(pdftex.def)             Requested size: 247.54149pt x 247.53674pt.
+ [14 <./ImgChap1/CLAS2.png (PNG copy)>] [15]
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 224.
+(pdftex.def)             Requested size: 247.54149pt x 247.53674pt.
+ [16]) [17]
+\openout2 = `Hodoscope/TheForwardTagger/TheForwardTagger.aux'.
+
+
+(Hodoscope/TheForwardTagger/TheForwardTagger.tex
+Chapter 3.
+[18
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 36.
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
+
+<ImgChap1/FTcross.png, id=779, 325.96782pt x 639.89063pt>
+File: ImgChap1/FTcross.png Graphic file (type png)
+
+<use ImgChap1/FTcross.png>
+Package pdftex.def Info: ImgChap1/FTcross.png used on input line 42.
+(pdftex.def)             Requested size: 247.54149pt x 485.9509pt.
+ [19] [20 <./ImgChap1/FTcross.png (PNG copy)>]
+<ImgChap1/ftcalo.png, id=795, 389.455pt x 314.17375pt>
+File: ImgChap1/ftcalo.png Graphic file (type png)
+
+<use ImgChap1/ftcalo.png>
+Package pdftex.def Info: ImgChap1/ftcalo.png used on input line 65.
+(pdftex.def)             Requested size: 247.54149pt x 199.68987pt.
+
+Underfull \hbox (badness 3128) in paragraph at lines 66--66
+[][]|\OT1/cmr/m/it/10.95 A sim-ple schematic of the ge-om-e-try of the for-ward
+ tag-ger
+ []
+
+[21 <./ImgChap1/ftcalo.png>]
+<ImgChap1/fthodo.png, id=811, 386.44376pt x 319.1925pt>
+File: ImgChap1/fthodo.png Graphic file (type png)
+
+<use ImgChap1/fthodo.png>
+Package pdftex.def Info: ImgChap1/fthodo.png used on input line 84.
+(pdftex.def)             Requested size: 247.54149pt x 204.4627pt.
+ [22]
+<ImgChap1/fttrck.png, id=822, 385.44pt x 324.21124pt>
+File: ImgChap1/fttrck.png Graphic file (type png)
+
+<use ImgChap1/fttrck.png>
+Package pdftex.def Info: ImgChap1/fttrck.png used on input line 100.
+(pdftex.def)             Requested size: 247.54149pt x 208.21675pt.
+ [23 <./ImgChap1/fthodo.png>] [24 <./ImgChap1/fttrck.png>] <ImgChap1/hodo.pdf, 
+id=854, 319.1925pt x 359.3425pt>
+File: ImgChap1/hodo.pdf Graphic file (type pdf)
+
+<use ImgChap1/hodo.pdf>
+Package pdftex.def Info: ImgChap1/hodo.pdf used on input line 140.
+(pdftex.def)             Requested size: 247.54149pt x 278.67946pt.
+ [25]
+<ImgChap1/diagonalholes.jpg, id=863, 2601.72pt x 1943.26pt>
+File: ImgChap1/diagonalholes.jpg Graphic file (type jpg)
+
+<use ImgChap1/diagonalholes.jpg>
+Package pdftex.def Info: ImgChap1/diagonalholes.jpg used on input line 152.
+(pdftex.def)             Requested size: 247.54149pt x 184.87848pt.
+
+<ImgChap1/fibrelength.png, id=864, 167.87718pt x 331.2375pt>
+File: ImgChap1/fibrelength.png Graphic file (type png)
+
+<use ImgChap1/fibrelength.png>
+Package pdftex.def Info: ImgChap1/fibrelength.png used on input line 161.
+(pdftex.def)             Requested size: 206.28249pt x 407.01535pt.
+ [26 <./ImgChap1/hodo.pdf>]
+<ImgChap1/hodooverview.jpg, id=873, 3276.24pt x 2457.18pt>
+File: ImgChap1/hodooverview.jpg Graphic file (type jpg)
+
+<use ImgChap1/hodooverview.jpg>
+Package pdftex.def Info: ImgChap1/hodooverview.jpg used on input line 170.
+(pdftex.def)             Requested size: 247.54149pt x 185.63031pt.
+
+<ImgChap1/fibretest.png, id=874, 356.0803pt x 264.23718pt>
+File: ImgChap1/fibretest.png Graphic file (type png)
+
+<use ImgChap1/fibretest.png>
+Package pdftex.def Info: ImgChap1/fibretest.png used on input line 181.
+(pdftex.def)             Requested size: 247.54149pt x 183.69066pt.
+ [27 <./ImgChap1/diagonalholes.jpg>] [28 <./ImgChap1/fibrelength.png (PNG copy)
+>] [29 <./ImgChap1/hodooverview.jpg> <./ImgChap1/fibretest.png (PNG copy)>]
+<ImgChap1/CarbonFiberPlateDerek.pdf, id=891, 845.0471pt x 597.50829pt>
+File: ImgChap1/CarbonFiberPlateDerek.pdf Graphic file (type pdf)
+
+<use ImgChap1/CarbonFiberPlateDerek.pdf>
+Package pdftex.def Info: ImgChap1/CarbonFiberPlateDerek.pdf used on input line 
+194.
+(pdftex.def)             Requested size: 247.54149pt x 175.02347pt.
+
+<ImgChap1/enclosure_hodoscope7.jpg, id=893, 3276.24pt x 2457.18pt>
+File: ImgChap1/enclosure_hodoscope7.jpg Graphic file (type jpg)
+
+<use ImgChap1/enclosure_hodoscope7.jpg>
+Package pdftex.def Info: ImgChap1/enclosure_hodoscope7.jpg used on input line 2
+03.
+(pdftex.def)             Requested size: 247.54149pt x 185.63031pt.
+ [30 <./ImgChap1/CarbonFiberPlateDerek.pdf>] <ImgChap1/deltawingside.png, id=91
+2, 875.27pt x 490.83376pt>
+File: ImgChap1/deltawingside.png Graphic file (type png)
+
+<use ImgChap1/deltawingside.png>
+Package pdftex.def Info: ImgChap1/deltawingside.png used on input line 212.
+(pdftex.def)             Requested size: 247.54149pt x 138.81058pt.
+
+<ImgChap1/enclosure_hodoscope6.jpg, id=914, 3276.24pt x 2457.18pt>
+File: ImgChap1/enclosure_hodoscope6.jpg Graphic file (type jpg)
+
+<use ImgChap1/enclosure_hodoscope6.jpg>
+Package pdftex.def Info: ImgChap1/enclosure_hodoscope6.jpg used on input line 2
+21.
+(pdftex.def)             Requested size: 247.54149pt x 185.63031pt.
+
+<ImgChap1/enclosure_hodoscope4.jpg, id=915, 3276.24pt x 2457.18pt>
+File: ImgChap1/enclosure_hodoscope4.jpg Graphic file (type jpg)
+
+<use ImgChap1/enclosure_hodoscope4.jpg>
+Package pdftex.def Info: ImgChap1/enclosure_hodoscope4.jpg used on input line 2
+22.
+(pdftex.def)             Requested size: 247.54149pt x 185.63031pt.
+ [31 <./ImgChap1/enclosure_hodoscope7.jpg> <./ImgChap1/deltawingside.png>] [32 
+<./ImgChap1/enclosure_hodoscope6.jpg> <./ImgChap1/enclosure_hodoscope4.jpg>]
+<ImgChap1/fishtail.png, id=926, 657.45625pt x 527.9725pt>
+File: ImgChap1/fishtail.png Graphic file (type png)
+
+<use ImgChap1/fishtail.png>
+Package pdftex.def Info: ImgChap1/fishtail.png used on input line 240.
+(pdftex.def)             Requested size: 206.28249pt x 165.6516pt.
+ [33 <./ImgChap1/fishtail.png>]
+<ImgChap1/sipm.png, id=934, 415.5525pt x 349.305pt>
+File: ImgChap1/sipm.png Graphic file (type png)
+ <use ImgChap1/sipm.png>
+Package pdftex.def Info: ImgChap1/sipm.png used on input line 251.
+(pdftex.def)             Requested size: 206.28249pt x 173.3942pt.
+
+[34 <./ImgChap1/sipm.png>]
+<ImgChap1/mezzboards.jpg, id=941, 3276.24pt x 2457.18pt>
+File: ImgChap1/mezzboards.jpg Graphic file (type jpg)
+
+<use ImgChap1/mezzboards.jpg>
+Package pdftex.def Info: ImgChap1/mezzboards.jpg used on input line 262.
+(pdftex.def)             Requested size: 206.28249pt x 154.69818pt.
+
+<ImgChap1/FlashADC.jpg, id=942, 3276.24pt x 2457.18pt>
+File: ImgChap1/FlashADC.jpg Graphic file (type jpg)
+
+<use ImgChap1/FlashADC.jpg>
+Package pdftex.def Info: ImgChap1/FlashADC.jpg used on input line 271.
+(pdftex.def)             Requested size: 206.28249pt x 154.69818pt.
+ [35 <./ImgChap1/mezzboards.jpg> <./ImgChap1/FlashADC.jpg>]
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 292.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+ [36]
+<ImgChap1/sealed.png, id=955, 346.29375pt x 256.70906pt>
+File: ImgChap1/sealed.png Graphic file (type png)
+
+<use ImgChap1/sealed.png>
+Package pdftex.def Info: ImgChap1/sealed.png used on input line 312.
+(pdftex.def)             Requested size: 288.79422pt x 214.0908pt.
+ [37 <./ImgChap1/sealed.png (PNG copy)>]) [38]
+\openout2 = `Hodoscope/Simulations/Simulations.aux'.
+
+
+(Hodoscope/Simulations/Simulations.tex
+Chapter 4.
+<ImgChap1/mip.png, id=966, 515.67656pt x 295.85532pt>
+File: ImgChap1/mip.png Graphic file (type png)
+ <use ImgChap1/mip.png>
+Package pdftex.def Info: ImgChap1/mip.png used on input line 9.
+(pdftex.def)             Requested size: 371.30595pt x 213.0337pt.
+
+[39
+
+
+
+] <ImgChap1/tilesim.png, id=976, 543.53062pt x 303.38344pt>
+File: ImgChap1/tilesim.png Graphic file (type png)
+
+<use ImgChap1/tilesim.png>
+Package pdftex.def Info: ImgChap1/tilesim.png used on input line 26.
+(pdftex.def)             Requested size: 371.30595pt x 207.26088pt.
+ [40 <./ImgChap1/mip.png (PNG copy)>]
+<ImgChap1/timingsim.png, id=986, 541.27219pt x 304.13625pt>
+File: ImgChap1/timingsim.png Graphic file (type png)
+
+<use ImgChap1/timingsim.png>
+Package pdftex.def Info: ImgChap1/timingsim.png used on input line 59.
+(pdftex.def)             Requested size: 371.30595pt x 208.63835pt.
+ [41 <./ImgChap1/tilesim.png (PNG copy)>] [42 <./ImgChap1/timingsim.png (PNG co
+py)>]
+<ImgChap1/bendsim.png, id=1003, 526.21594pt x 300.3722pt>
+File: ImgChap1/bendsim.png Graphic file (type png)
+
+<use ImgChap1/bendsim.png>
+Package pdftex.def Info: ImgChap1/bendsim.png used on input line 90.
+(pdftex.def)             Requested size: 371.30595pt x 211.95491pt.
+
+<ImgChap1/raddose.png, id=1007, 448.67625pt x 428.60126pt>
+File: ImgChap1/raddose.png Graphic file (type png)
+
+<use ImgChap1/raddose.png>
+Package pdftex.def Info: ImgChap1/raddose.png used on input line 102.
+(pdftex.def)             Requested size: 371.30595pt x 354.70564pt.
+ [43 <./ImgChap1/bendsim.png (PNG copy)>] [44 <./ImgChap1/raddose.png>]) [45]
+\openout2 = `Hodoscope/Beamtime/Beamtime.aux'.
+
+ (Hodoscope/Beamtime/Beamtime.tex
+Chapter 5.
+<ImgChap1/firsttest.png, id=1028, 496.10344pt x 368.1253pt>
+File: ImgChap1/firsttest.png Graphic file (type png)
+
+<use ImgChap1/firsttest.png>
+Package pdftex.def Info: ImgChap1/firsttest.png used on input line 13.
+(pdftex.def)             Requested size: 288.79422pt x 214.29361pt.
+ [46
+
+
+
+]
+<ImgChap1/HodoTest2.png, id=1035, 696.6025pt x 441.65pt>
+File: ImgChap1/HodoTest2.png Graphic file (type png)
+
+<use ImgChap1/HodoTest2.png>
+Package pdftex.def Info: ImgChap1/HodoTest2.png used on input line 24.
+(pdftex.def)             Requested size: 371.30595pt x 235.4077pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 32.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Phi' on input line 32.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 32.
+
+[47 <./ImgChap1/firsttest.png (PNG copy)>]
+<ImgChap1/BTF.png, id=1042, 283.0575pt x 373.395pt>
+File: ImgChap1/BTF.png Graphic file (type png)
+ <use ImgChap1/BTF.png>
+Package pdftex.def Info: ImgChap1/BTF.png used on input line 39.
+(pdftex.def)             Requested size: 288.79422pt x 380.9946pt.
+
+<ImgChap1/frascatitile.jpg, id=1045, 2601.72pt x 1943.26pt>
+File: ImgChap1/frascatitile.jpg Graphic file (type jpg)
+
+<use ImgChap1/frascatitile.jpg>
+Package pdftex.def Info: ImgChap1/frascatitile.jpg used on input line 48.
+(pdftex.def)             Requested size: 288.79422pt x 215.68661pt.
+
+<ImgChap1/frascati1.png, id=1047, 758.08218pt x 480.29437pt>
+File: ImgChap1/frascati1.png Graphic file (type png)
+
+<use ImgChap1/frascati1.png>
+Package pdftex.def Info: ImgChap1/frascati1.png used on input line 57.
+(pdftex.def)             Requested size: 288.79422pt x 182.96812pt.
+
+<ImgChap1/frascatiresults1.png, id=1049, 861.2175pt x 465.99094pt>
+File: ImgChap1/frascatiresults1.png Graphic file (type png)
+
+<use ImgChap1/frascatiresults1.png>
+Package pdftex.def Info: ImgChap1/frascatiresults1.png used on input line 66.
+(pdftex.def)             Requested size: 371.30595pt x 200.91258pt.
+
+<ImgChap1/frascatiresults2.png, id=1050, 892.08281pt x 491.58656pt>
+File: ImgChap1/frascatiresults2.png Graphic file (type png)
+
+<use ImgChap1/frascatiresults2.png>
+Package pdftex.def Info: ImgChap1/frascatiresults2.png used on input line 67.
+(pdftex.def)             Requested size: 371.30595pt x 204.6122pt.
+ [48 <./ImgChap1/HodoTest2.png>] [49 <./ImgChap1/BTF.png (PNG copy)> <./ImgChap
+1/frascatitile.jpg>]
+<ImgChap1/holderboard.jpg, id=1065, 2601.72pt x 1943.26pt>
+File: ImgChap1/holderboard.jpg Graphic file (type jpg)
+
+<use ImgChap1/holderboard.jpg>
+Package pdftex.def Info: ImgChap1/holderboard.jpg used on input line 79.
+(pdftex.def)             Requested size: 288.79422pt x 215.68661pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 87.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Phi' on input line 87.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 87.
+
+<ImgChap1/frascatiphoto.jpg, id=1066, 339.3405pt x 254.5875pt>
+File: ImgChap1/frascatiphoto.jpg Graphic file (type jpg)
+
+<use ImgChap1/frascatiphoto.jpg>
+Package pdftex.def Info: ImgChap1/frascatiphoto.jpg used on input line 95.
+(pdftex.def)             Requested size: 288.79422pt x 216.68008pt.
+ [50 <./ImgChap1/frascati1.png (PNG copy)>]
+[51 <./ImgChap1/frascatiresults1.png (PNG copy)> <./ImgChap1/frascatiresults2.p
+ng (PNG copy)>] [52 <./ImgChap1/holderboard.jpg> <./ImgChap1/frascatiphoto.jpg>
+] <ImgChap1/frascati2results.png, id=1084, 397.485pt x 292.09125pt>
+File: ImgChap1/frascati2results.png Graphic file (type png)
+
+<use ImgChap1/frascati2results.png>
+Package pdftex.def Info: ImgChap1/frascati2results.png used on input line 126.
+(pdftex.def)             Requested size: 288.79422pt x 212.22647pt.
+) [53] [54 <./ImgChap1/frascati2results.png (PNG copy)>]
+\openout2 = `Hodoscope/Construction/Construction.aux'.
+
+ (Hodoscope/Construction/Construction.tex
+Chapter 6.
+<ImgChap1/NoUV_setup1.jpg, id=1096, 3276.24pt x 2457.18pt>
+File: ImgChap1/NoUV_setup1.jpg Graphic file (type jpg)
+
+<use ImgChap1/NoUV_setup1.jpg>
+Package pdftex.def Info: ImgChap1/NoUV_setup1.jpg used on input line 9.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+ [55
+
+
+
+ <./ImgChap1/NoUV_setup1.jpg>]
+<ImgChap1/gap.png, id=1103, 963.6pt x 722.7pt>
+File: ImgChap1/gap.png Graphic file (type png)
+ <use ImgChap1/gap.png>
+Package pdftex.def Info: ImgChap1/gap.png used on input line 27.
+(pdftex.def)             Requested size: 288.79422pt x 216.59111pt.
+ [56]
+[57 <./ImgChap1/gap.png>]
+File: ImgChap1/enclosure_hodoscope7.jpg Graphic file (type jpg)
+ <use ImgChap1/enclosure_hodoscope7.jpg>
+Package pdftex.def Info: ImgChap1/enclosure_hodoscope7.jpg used on input line 4
+9.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+ [58]
+<ImgChap1/hodoelements.jpg, id=1126, 907.89188pt x 768.62157pt>
+File: ImgChap1/hodoelements.jpg Graphic file (type jpg)
+
+<use ImgChap1/hodoelements.jpg>
+Package pdftex.def Info: ImgChap1/hodoelements.jpg used on input line 64.
+(pdftex.def)             Requested size: 288.79422pt x 244.48618pt.
+
+Underfull \hbox (badness 1584) in paragraph at lines 65--65
+[][]|\OT1/cmr/m/it/10.95 A schematic view of the scin-til-la-tor tile ar-range-
+ment in the
+ []
+
+<ImgChap1/jig.jpg, id=1128, 3276.24pt x 2457.18pt>
+File: ImgChap1/jig.jpg Graphic file (type jpg)
+ <use ImgChap1/jig.jpg>
+Package pdftex.def Info: ImgChap1/jig.jpg used on input line 74.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+
+<ImgChap1/layout.jpg, id=1129, 1284.8pt x 963.6pt>
+File: ImgChap1/layout.jpg Graphic file (type jpg)
+ <use ImgChap1/layout.jpg>
+Package pdftex.def Info: ImgChap1/layout.jpg used on input line 81.
+(pdftex.def)             Requested size: 288.79422pt x 216.5948pt.
+
+[59 <./ImgChap1/hodoelements.jpg>]
+<ImgChap1/layoutzoom.jpg, id=1137, 1284.8pt x 963.6pt>
+File: ImgChap1/layoutzoom.jpg Graphic file (type jpg)
+
+<use ImgChap1/layoutzoom.jpg>
+Package pdftex.def Info: ImgChap1/layoutzoom.jpg used on input line 90.
+(pdftex.def)             Requested size: 288.79422pt x 216.5948pt.
+ [60 <./ImgChap1/jig.jpg> <./ImgChap1/layout.jpg>] [61 <./ImgChap1/layoutzoom.j
+pg>]
+<ImgChap1/groups.png, id=1150, 511.6716pt x 453.8556pt>
+File: ImgChap1/groups.png Graphic file (type png)
+
+<use ImgChap1/groups.png>
+Package pdftex.def Info: ImgChap1/groups.png used on input line 117.
+(pdftex.def)             Requested size: 288.79422pt x 256.16573pt.
+ [62 <./ImgChap1/groups.png>]
+<ImgChap1/deltacord.jpg, id=1158, 3276.24pt x 2457.18pt>
+File: ImgChap1/deltacord.jpg Graphic file (type jpg)
+
+<use ImgChap1/deltacord.jpg>
+Package pdftex.def Info: ImgChap1/deltacord.jpg used on input line 128.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+ [63 <./ImgChap1/deltacord.jpg>]
+<ImgChap1/postgluefishtale.jpg, id=1165, 3276.24pt x 2457.18pt>
+File: ImgChap1/postgluefishtale.jpg Graphic file (type jpg)
+
+<use ImgChap1/postgluefishtale.jpg>
+Package pdftex.def Info: ImgChap1/postgluefishtale.jpg used on input line 165.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+File: ImgChap1/sealed.png Graphic file (type png)
+ <use ImgChap1/sealed.png>
+Package pdftex.def Info: ImgChap1/sealed.png used on input line 191.
+(pdftex.def)             Requested size: 288.79422pt x 214.0908pt.
+ [64]
+<ImgChap1/packing.png, id=1171, 428.35031pt x 389.95688pt>
+File: ImgChap1/packing.png Graphic file (type png)
+
+<use ImgChap1/packing.png>
+Package pdftex.def Info: ImgChap1/packing.png used on input line 202.
+(pdftex.def)             Requested size: 288.79422pt x 262.91202pt.
+
+<ImgChap1/packingCAD.png, id=1172, 267.24844pt x 204.765pt>
+File: ImgChap1/packingCAD.png Graphic file (type png)
+
+<use ImgChap1/packingCAD.png>
+Package pdftex.def Info: ImgChap1/packingCAD.png used on input line 209.
+(pdftex.def)             Requested size: 288.79422pt x 221.29597pt.
+
+<ImgChap1/detectorpacked.jpg, id=1173, 3276.24pt x 2457.18pt>
+File: ImgChap1/detectorpacked.jpg Graphic file (type jpg)
+
+<use ImgChap1/detectorpacked.jpg>
+Package pdftex.def Info: ImgChap1/detectorpacked.jpg used on input line 216.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+
+<ImgChap1/JLABTestingSetup.jpg, id=1174, 3276.24pt x 2457.18pt>
+File: ImgChap1/JLABTestingSetup.jpg Graphic file (type jpg)
+
+<use ImgChap1/JLABTestingSetup.jpg>
+Package pdftex.def Info: ImgChap1/JLABTestingSetup.jpg used on input line 233.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+
+<ImgChap1/JLABTestingCrate.jpg, id=1175, 3276.24pt x 2457.18pt>
+File: ImgChap1/JLABTestingCrate.jpg Graphic file (type jpg)
+
+<use ImgChap1/JLABTestingCrate.jpg>
+Package pdftex.def Info: ImgChap1/JLABTestingCrate.jpg used on input line 240.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+
+<ImgChap1/JLABTestingHodo.jpg, id=1176, 3276.24pt x 2457.18pt>
+File: ImgChap1/JLABTestingHodo.jpg Graphic file (type jpg)
+
+<use ImgChap1/JLABTestingHodo.jpg>
+Package pdftex.def Info: ImgChap1/JLABTestingHodo.jpg used on input line 247.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+
+<ImgChap1/JLABTestingElectronics.jpg, id=1177, 3276.24pt x 2457.18pt>
+File: ImgChap1/JLABTestingElectronics.jpg Graphic file (type jpg)
+
+<use ImgChap1/JLABTestingElectronics.jpg>
+Package pdftex.def Info: ImgChap1/JLABTestingElectronics.jpg used on input line
+ 254.
+(pdftex.def)             Requested size: 288.79422pt x 216.56245pt.
+ [65 <./ImgChap1/postgluefishtale.jpg>] [66 <./ImgChap1/packing.png (PNG copy)>
+] [67 <./ImgChap1/packingCAD.png (PNG copy)> <./ImgChap1/detectorpacked.jpg>] [
+68 <./ImgChap1/JLABTestingSetup.jpg> <./ImgChap1/JLABTestingCrate.jpg>] [69 <./
+ImgChap1/JLABTestingHodo.jpg> <./ImgChap1/JLABTestingElectronics.jpg>]) [70]
+\openout2 = `Hodoscope/SubSystems/SubSystems.aux'.
+
+ (Hodoscope/SubSystems/SubSystems.tex
+Chapter 7.
+[71
+
+
+
+]
+Overfull \hbox (82.861pt too wide) in paragraph at lines 43--44
+[]$\OML/cmm/m/it/12 http \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 ==www:southernscien
+tific:co:uk=data=file=\OT1/cmr/m/n/12 7\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 6\OML/
+cmm/m/it/12 =EJ\OT1/cmr/m/n/12 204%20\OML/cmm/m/it/12 data\OT1/cmr/m/n/12 %20\O
+ML/cmm/m/it/12 sheet:\OT1/cmr/m/n/12 1438855729\OML/cmm/m/it/12 :pdf$ 
+ []
+
+[72] [73] [74]
+File: ImgChap1/deltawingside.png Graphic file (type png)
+ <use ImgChap1/deltawingside.png>
+Package pdftex.def Info: ImgChap1/deltawingside.png used on input line 103.
+(pdftex.def)             Requested size: 206.28249pt x 115.67548pt.
+
+<ImgChap1/deltawing.jpg, id=1234, 3276.24pt x 2457.18pt>
+File: ImgChap1/deltawing.jpg Graphic file (type jpg)
+
+<use ImgChap1/deltawing.jpg>
+Package pdftex.def Info: ImgChap1/deltawing.jpg used on input line 110.
+(pdftex.def)             Requested size: 206.28249pt x 154.69818pt.
+ [75]
+<ImgChap1/Meson2.png, id=1241, 2007.5pt x 2007.5pt>
+File: ImgChap1/Meson2.png Graphic file (type png)
+ <use ImgChap1/Meson2.png>
+Package pdftex.def Info: ImgChap1/Meson2.png used on input line 123.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+File: ImgChap1/fishtail.png Graphic file (type png)
+
+<use ImgChap1/fishtail.png>
+Package pdftex.def Info: ImgChap1/fishtail.png used on input line 130.
+(pdftex.def)             Requested size: 206.28249pt x 165.6516pt.
+
+Underfull \hbox (badness 3803) in paragraph at lines 131--131
+[][]|\OT1/cmr/m/it/10.95 De-con-structed fish-tale con-nec-tor im-age show-ing 
+the dif-fer-ent
+ []
+
+[76 <./ImgChap1/deltawing.jpg>] [77 <./ImgChap1/Meson2.png>]
+<ImgChap1/board.png, id=1253, 256.70906pt x 191.9672pt>
+File: ImgChap1/board.png Graphic file (type png)
+
+<use ImgChap1/board.png>
+Package pdftex.def Info: ImgChap1/board.png used on input line 143.
+(pdftex.def)             Requested size: 206.28249pt x 154.25938pt.
+
+<ImgChap1/SiPM1.png, id=1255, 193.6836pt x 164.7756pt>
+File: ImgChap1/SiPM1.png Graphic file (type png)
+
+<use ImgChap1/SiPM1.png>
+Package pdftex.def Info: ImgChap1/SiPM1.png used on input line 171.
+(pdftex.def)             Requested size: 206.28249pt x 175.50356pt.
+File: ImgChap1/Meson2.png Graphic file (type png)
+ <use ImgChap1/Meson2.png>
+Package pdftex.def Info: ImgChap1/Meson2.png used on input line 178.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+ [78 <./ImgChap1/board.png (PNG copy)>] [79 <./ImgChap1/SiPM1.png>] [80] [81] [
+82]
+<ImgChap1/MezzBoards.jpg, id=1298, 3276.24pt x 2457.18pt>
+File: ImgChap1/MezzBoards.jpg Graphic file (type jpg)
+
+<use ImgChap1/MezzBoards.jpg>
+Package pdftex.def Info: ImgChap1/MezzBoards.jpg used on input line 257.
+(pdftex.def)             Requested size: 206.28249pt x 154.69818pt.
+File: ImgChap1/Meson2.png Graphic file (type png)
+ <use ImgChap1/Meson2.png>
+Package pdftex.def Info: ImgChap1/Meson2.png used on input line 265.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+
+<ImgChap1/Board_hodoscope.jpg, id=1299, 1466.47874pt x 1486.05188pt>
+File: ImgChap1/Board_hodoscope.jpg Graphic file (type jpg)
+
+<use ImgChap1/Board_hodoscope.jpg>
+Package pdftex.def Info: ImgChap1/Board_hodoscope.jpg used on input line 272.
+(pdftex.def)             Requested size: 206.28249pt x 209.02087pt.
+File: ImgChap1/FlashADC.jpg Graphic file (type jpg)
+ <use ImgChap1/FlashADC.jpg>
+Package pdftex.def Info: ImgChap1/FlashADC.jpg used on input line 283.
+(pdftex.def)             Requested size: 206.28249pt x 154.69818pt.
+ [83 <./ImgChap1/MezzBoards.jpg>] [84 <./ImgChap1/Board_hodoscope.jpg>]
+File: ImgChap1/Meson2.png Graphic file (type png)
+
+<use ImgChap1/Meson2.png>
+Package pdftex.def Info: ImgChap1/Meson2.png used on input line 316.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+
+Underfull \hbox (badness 2111) in paragraph at lines 317--317
+[][]|\OT1/cmr/m/it/10.95 Re-flec-tion co-ef-fi-cient for sev-eral re-flec-tors 
+as a func-tion of
+ []
+
+[85] [86]
+File: ImgChap1/Meson2.png Graphic file (type png)
+ <use ImgChap1/Meson2.png>
+Package pdftex.def Info: ImgChap1/Meson2.png used on input line 351.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+ [87] [88] [89]
+<ImgChap1/hodoorientation.pdf, id=1352, 796.9775pt x 597.23125pt>
+File: ImgChap1/hodoorientation.pdf Graphic file (type pdf)
+
+<use ImgChap1/hodoorientation.pdf>
+Package pdftex.def Info: ImgChap1/hodoorientation.pdf used on input line 415.
+(pdftex.def)             Requested size: 247.54149pt x 185.49518pt.
+ [90 <./ImgChap1/hodoorientation.pdf>]
+<ImgChap1/flasher.png, id=1387, 201.00093pt x 203.25937pt>
+File: ImgChap1/flasher.png Graphic file (type png)
+
+<use ImgChap1/flasher.png>
+Package pdftex.def Info: ImgChap1/flasher.png used on input line 438.
+(pdftex.def)             Requested size: 247.54149pt x 250.32079pt.
+ [91 <./ImgChap1/flasher.png (PNG copy)>]
+File: ImgChap1/hodoelements.jpg Graphic file (type jpg)
+
+<use ImgChap1/hodoelements.jpg>
+Package pdftex.def Info: ImgChap1/hodoelements.jpg used on input line 466.
+(pdftex.def)             Requested size: 247.54149pt x 209.5713pt.
+ [92] [93]) [94]
+\openout2 = `Analysis/chapter2/chapter2Simon.aux'.
+
+
+(Analysis/chapter2/chapter2Simon.tex
+Chapter 8.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\omega' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[95
+
+
+
+] [96]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\omega' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+[97]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\omega' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\omega' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 76.
+
+File: ImgChap1/meson2.png Graphic file (type png)
+<use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 86.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+ [98]
+File: ImgChap1/meson2.png Graphic file (type png)
+ <use ImgChap1/meson2.png>
+Package pdftex.def Info: ImgChap1/meson2.png used on input line 113.
+(pdftex.def)             Requested size: 206.28249pt x 206.27551pt.
+ [99] [100]) [101]
+\openout2 = `literaturereview1/litrev1.aux'.
+
+
+(literaturereview1/litrev1.tex
+Chapter 9.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\omega' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[102
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\omega' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 27.
+
+[103] [104] [105]) [106] (masterSimon.bbl
+Underfull \hbox (badness 1005) in paragraph at lines 18--23
+\OT1/cmr/m/n/12 com-mis-sion-ing of the CAL-ICE ana-log hadron calorime-ter pro
+-to-type.''
+ []
+
+[107
+
+
+
+]
+Missing character: There is no Ï in font cmr12!
+Missing character: There is no ± in font cmr12!
+ [108]
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ° in font cmr12!
+
+Underfull \hbox (badness 2970) in paragraph at lines 220--225
+\OT1/cmr/m/n/12 H. Liu, X. Shen, O. Wang, H. Xu, et al.  ``Tech-ni-cal De-sign
+ []
+
+[109] [110]
+Underfull \hbox (badness 1087) in paragraph at lines 334--340
+[]\OT1/cmr/m/n/12 Mecking, B. A., G. Adams, S. Ah-mad, E. An-ciant, M. Angh-i-n
+olfi,
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 2617) in paragraph at lines 402--408
+[]\OT1/cmr/m/n/12 Smith, E., T. Carstens, J. Dis-tel-brink, M. Eck-hause, H. Eg
+iyan,
+ []
+
+[111]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 1237) in paragraph at lines 449--453
+[]\OT1/cmr/m/n/12 Weidner, V. R., and J. J. Hsia.  ``Re-flec-tion prop-er-ties 
+of pressed
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 456--461
+[]\OT1/cmr/m/n/12 Wojcik, R., B. Kross, S. Ma-jew-ski, A. Weisen-berger, and C.
+ Zorn.
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 463--467
+[]\OT1/cmr/m/n/12 Zhou, D., A. col-lab-o-ra-tion, et al.  ``PHOS, the ALICE-PHO
+ton
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+ [112]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+ (masterSimon.aux (Hodoscope/IntroAndTheory/IntroAndTheory.aux)
+(Hodoscope/JeffersonLabandCLAS/JeffersonLabandCLAS.aux)
+(Hodoscope/TheForwardTagger/TheForwardTagger.aux)
+(Hodoscope/Simulations/Simulations.aux) (Hodoscope/Beamtime/Beamtime.aux)
+(Hodoscope/Construction/Construction.aux) (Hodoscope/SubSystems/SubSystems.aux)
+(Analysis/chapter2/chapter2Simon.aux) (literaturereview1/litrev1.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package rerunfilecheck Info: File `masterSimon.out' has not changed.
+(rerunfilecheck)             Checksum: B846851B2A8FB00A3AAF8456000CB6E9;6429.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
+ ) 
+Here is how much of TeX's memory you used:
+ 11304 strings out of 493334
+ 175992 string characters out of 3136672
+ 273939 words of memory out of 3000000
+ 14250 multiletter control sequences out of 15000+200000
+ 17268 words of font info for 61 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,12n,55p,1962b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Simon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tcrm0800.pk> <C:\Users\Simon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\tcrm1200.pk><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbxti10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmex10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on masterSimon.pdf (119 pages, 42620632 bytes).
+PDF statistics:
+ 1652 PDF objects out of 1728 (max. 8388607)
+ 372 named destinations out of 1000 (max. 500000)
+ 1095 words of extra memory for PDF output out of 10000 (max. 10000000)
+

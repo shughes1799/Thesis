@@ -1,0 +1,34 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: masterSimon.aux
+A level-1 auxiliary file: Hodoscope/IntroAndTheory/IntroAndTheory.aux
+A level-1 auxiliary file: Hodoscope/JeffersonLabandCLAS/JeffersonLabandCLAS.aux
+A level-1 auxiliary file: Hodoscope/TheForwardTagger/TheForwardTagger.aux
+A level-1 auxiliary file: Hodoscope/Simulations/Simulations.aux
+A level-1 auxiliary file: Hodoscope/Beamtime/Beamtime.aux
+A level-1 auxiliary file: Hodoscope/Construction/Construction.aux
+A level-1 auxiliary file: Hodoscope/SubSystems/SubSystems.aux
+A level-1 auxiliary file: Analysis/chapter2/chapter2Simon.aux
+A level-1 auxiliary file: literaturereview1/litrev1.aux
+The style file: ChicagoReedweb.bst
+Database file #1: Hodoscope/chapter1/chapter1bib.bib
+I was expecting a `,' or a `}'---line 101 of file Hodoscope/chapter1/chapter1bib.bib
+ :  year={2006}
+ :             @article{albrow1987uranium,
+I'm skipping whatever remains of this entry
+Repeated entry---line 122 of file Hodoscope/chapter1/chapter1bib.bib
+ : @article{albrow1987uranium
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 428 of file Hodoscope/chapter1/chapter1bib.bib
+ : @article{amarian2001clas
+ :                         ,
+I'm skipping whatever remains of this entry
+Database file #2: Analysis/chapter2/chapter2bib.bib
+Database file #3: literaturereview1/litrev1bib.bib
+Warning--missing institution in barsuk2000radiation
+Warning--can't use both volume and number fields in bross1990radiation
+Warning--empty journal in cohn1993scintillating
+Warning--empty journal in degtiarenko2011calculation
+Warning--can't use both volume and number fields in dudek2011lattice
+Warning--missing institution in joram2014mirroring
+Warning--empty year in stepanyan2008clas
+(There were 3 error messages)

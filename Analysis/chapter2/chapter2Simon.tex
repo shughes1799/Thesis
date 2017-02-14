@@ -1,0 +1,136 @@
+\chapter{Analysis of the $\gamma p \rightarrow \omega\pi\pi$ decay channel}
+
+Aims of this study?
+Extract interesting physics form the decay channel not previously studied.
+Very complicated final state, many possible intermediate states with overlapping mass ranges.
+Multiplicity of pions a significant barrier to isolating decays.
+Expected to be a channel of significant interest for data analysis at higher energies in CLAS12
+Software development for improving the efficiency of colaborative efforts
+Applications to CLAS12 development
+
+\section{Theory}
+May have some significant overlap from the theory relating to the hodoscope so will have to be selective in this section.
+
+Further discussion about the analysis process, problems and techniques for extracting information. 
+Some brief discussion on partial wave analysis? 
+What are some of the problems and limitations in these techniques?
+
+\section{Literature Review} 
+ Discussing of previous work on the area looking at the same analysis channel.
+ What can be learned from the previous studies.
+ What can be extended?
+ What are the limitations of previous work that can be expanded on this work?
+ 
+\section{Filtering}
+
+\subsection{CLAS Cooking}
+Start of with the general CLAS cooking process.
+Well established and understood high statistics dataset and run period with extensive previous publications and reviews of the run period
+Discuss how the initial stage conversion from detector signals to processable datasets is done. 
+What assumptions and corrections are established.
+Limitations of the process
+\subsection{g11 filter code}
+Structure written by Marco Battaglieri and cross checked by many members of the CLAS collaboration. 
+Fortran based.
+Filter the large datasets into multiple files less than 2 GB for further analysis in ROOT.
+Wide cuts and selections.
+Some corrections applied as part of the filter code.
+Filter iteratively refined to find the best options for selection.
+
+\section{Framework}
+Standardised, customisable framework to optimise and accelerate the process of meson spectroscopy analysis. Cite the HASPECT paper somewhere relevent here.
+Developed to be scalable and parralisable taking advantage of well established and developed tools already present in ROOT.
+Makes use of the TSelector framework
+Customisable by each user, allowing them to tailor the software to fit their needs.
+Consistancy of structure allows the program to be cross checked more efficiently by the collaboration.
+Efficient development allows a faster transition between data collection and high level physics analysis. With less time spent in the complicated but largely standardised procedures for reading in and processing data. Transfering this information into formats more useful for physics analysis such as creating particle objects with mass, momentum etc.
+
+\subsubsection{Code Structure}
+
+After the g11 filter code, the skimmed data is split into $<2Gb$ root files for further analysis. 
+
+The rest of the analysis code is split into a number of stages which allow flexibility and the ability for the analysis to diverge at different stages. Shorter codes also allow the program to be run more efficiently with just necessary stages run each time.
+
+\begin{itemize}
+	\item	Conversion to particle 4 Vectors
+	\item   Additional datamembers and Corrections applied
+	\item   Generate histograms for sideband or weights for sWeights
+	\item	Apply background subtraction methodolgy and generate histrograms. 
+\end{itemize}
+
+
+
+\section{Corrections}
+Energy Corrections, Momentum Corrections, Tagger Corrections, Mass corrections in the code.
+\section{Simulations}
+EdGen
+GEMC
+GPP
+
+Discuss the particle generator, and the simulations for passing these through the CLAS detector.
+Discuss the role simulations play in better understanding both the results of the data analysis and guiding the direction of its progress. Where are likely to be the key areas of interest? Does the empirical evidence agree with the simulated expectations?
+
+
+\section{$p\gamma \rightarrow p\omega\pi^{+}\pi^{-} \rightarrow \pi^{+}\pi^{-}\pi^{+}\pi^{-}(\pi^{0})$}
+Studies looking at the reaction with just a missing $\pi^{0}$ largely similar principles to the previous work in the area but with much higher statistics and more sophisticated background subtraction methods.
+\section{$p\gamma \rightarrow p\omega\pi^{+}\pi^{-} \rightarrow \pi^{+}\pi^{-}(\omega)$}
+Studies looking at the reaction with a missing $\omega$ increasing the statistics at the cost of increased levels of background.
+Attempts to extract the signal out of the background with various methods of background separation
+
+\subsection{Sideband Subtraction}
+
+One of the most common methods of background subtraction in current usage. The principle is to isolate a signal region from a phase space background that is continuous across the signal region. A simplistic example would be a polynomial background across a mass range with a gaussian shaped signal limited to a specific mass range. To separate the background in the signal region, data is collected from a phase space either side of the signal region equivalent to the size of the signal region. The left and right side band regions are combined and normalised to the width of the signal region. They are then subtracted from results in the signal region to leave just the signal component in the area.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\textwidth]{ImgChap1/meson2}
+	\caption{Picture showing how a typical sideband subtraction would work.}		
+	\label{sidebandsub}
+\end{figure}
+
+The method assumes the the background is continuous across the region and representative of the background in the signal region. 
+
+Studies done during my analysis have shown that it is important to systematically check this assumption holds true for the data being analysed. In the analysis carried out there was large asymmetric contribution from the sidebands. Causing artefacts to to pe produced in the signal region.
+
+\subsection{Code Structure}
+
+
+
+\subsection{sWeights Background Subtraction}
+
+explantion of how sWeights uses a single fitting variable to asign a weight to each individual event based on how well it conforms to the shape of the fit. The fit is done using one or more signal and background functions to describe the data across the fitting range. Determining a likelyhood of weather the event is signal or background. The weighted events then produce plots for both the signal and background contributions to any histogram.
+
+Highly dependent on the quality of fit carried out to properly assess the signal and background contribution.
+
+The variable used for the fit is critical as all other assumptions are based on how well the data confines to this measure.
+
+Mathematics that define how the methodology works non trivial, and hard to properly understand the working of the model compared to something as simplistic as sideband subtraction.
+
+Cannot reproduce the signal and background portions of the key separation variables due to the data of how the function works. In my case this is the missing mass of the system.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\textwidth]{ImgChap1/meson2}
+	\caption{sWeeights fit of a discriminating variable.}		
+	\label{sWeights}
+\end{figure}
+
+\subsection{Van Hove Plots}
+
+Van hove plots separate reactions based on the kinematics of the particles involved. In simplistic terms in separates reactions in to sector based on whether each individual particle is travelling forward or backwards in the frame of reference of the reaction. For $\omega\pi\pi p$ this results in 14 possible sectors with different combinations of particles propagating either forward or backwards in reaction frame.
+
+Technique attempts to isolate reactions that favour certain kinematics over others. For example may separate s-channel N* resonances for more t-channel favoured meson resonances.
+
+This comes at the cost of statistics, particularly for reactions with a greater multitude of particles. For 3 particles there are only 6 combination, compared to the 14 of 4. If we were to consider the $5\pi p$ system  or even the $4\pi p2\gamma $ of the final state of this reaction the number of sectors would be \textbf{TBD}. Splitting the data up into so many sectors greatly limits to the statistics of the datasets.
+
+There are also issues with the accuracy of detectors determining the precise momentum of particles, particles in cases where there are missing particles. Leaving greater uncertainty in the results. This can lead to misidentification or bleeding from one sector into another.
+
+\section{Partial wave analysis}
+Probably this section will be removed
+\section{Results}
+TBD
+
+\section{Applications to CLAS12 development}
+
+Higher energies will allow better access to the states around 1670 and beyond.
+The forward tagger will allow detection of many of the forward angle pions that are currently lost down the beamline.

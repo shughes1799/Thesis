@@ -1,0 +1,468 @@
+\begin{thebibliography}{62}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+
+\bibitem[{Adams et~al.(2001)Adams, Burkert, Carl, Carstens, Frolov, Houghtlin,
+  Jacobs, Kossov, Klusman, Kross et~al.}]{adams2001clas}
+Adams, G., V.~Burkert, R.~Carl, T.~Carstens, V.~Frolov, L.~Houghtlin,
+  G.~Jacobs, M.~Kossov, M.~Klusman, B.~Kross, et~al.
+\newblock \enquote{The CLAS cherenkov detector.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 465, ~2:
+  (2001) 414--427.
+
+\bibitem[{Adloff et~al.(2010)Adloff, Karyotakis, Repond, Brandt, Brown, De,
+  Medina, Smith, Li, Sosebee et~al.}]{adloff2010construction}
+Adloff, C., Y.~Karyotakis, J.~Repond, A.~Brandt, H.~Brown, K.~De, C.~Medina,
+  J.~Smith, J.~Li, M.~Sosebee, et~al.
+\newblock \enquote{Construction and commissioning of the CALICE analog hadron
+  calorimeter prototype.}
+\newblock \emph{Journal of Instrumentation} 5, ~05: (2010) P05,004.
+
+\bibitem[{AdvanSiD(2014)}]{website:AdvanSiDSiPMpdf}
+AdvanSiD.
+\newblock \enquote{Introduction to SiPMs.}, 2014.
+\newblock
+  \urlprefix\url{http://advansid.com/attachment/get/up_89_1411030571.pdf}.
+\newblock Accessed: 15-09-2016.
+
+\bibitem[{Albrow et~al.(1987)Albrow, Arnison, Bunn, Clarke, Cochet, Colas,
+  Dallman, de~Brion, Denby, Eisenhandler et~al.}]{albrow1987uranium}
+Albrow, M.~G., G.~Arnison, J.~Bunn, D.~Clarke, C.~Cochet, P.~Colas, D.~Dallman,
+  J.~de~Brion, B.~Denby, E.~Eisenhandler, et~al.
+\newblock \enquote{A uranium scintillator calorimeter with plastic-fibre
+  readout.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 256, ~1:
+  (1987) 23--37.
+
+\bibitem[{Alcorn et~al.(2004)Alcorn, Anderson, Aniol, Annand, Auerbach,
+  Arrington, Averett, Baker, Baylac, Beise et~al.}]{alcorn2004basic}
+Alcorn, J., B.~Anderson, K.~Aniol, J.~Annand, L.~Auerbach, J.~Arrington,
+  T.~Averett, F.~Baker, M.~Baylac, E.~Beise, et~al.
+\newblock \enquote{Basic instrumentation for hall a at jefferson lab.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 522, ~3:
+  (2004) 294--346.
+
+\bibitem[{Amarian et~al.(2001)Amarian, Asryan, Beard, Brooks, Burkert,
+  Carstens, Coleman, Demirchyan, Efremenko, Egiyan et~al.}]{amarian2001clas}
+Amarian, M., G.~Asryan, K.~Beard, W.~Brooks, V.~Burkert, T.~Carstens,
+  A.~Coleman, R.~Demirchyan, Y.~Efremenko, H.~Egiyan, et~al.
+\newblock \enquote{The CLAS forward electromagnetic calorimeter.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 460, ~2:
+  (2001) 239--265.
+
+\bibitem[{Anghinolfi et~al.(2000)Anghinolfi, Battaglieri, Corvisiero, De~Vita,
+  Golovach, Longhi, Mokeev, Ricco, Ripani, Sapunenko
+  et~al.}]{anghinolfi2000response}
+Anghinolfi, M., M.~Battaglieri, P.~Corvisiero, R.~De~Vita, E.~Golovach,
+  A.~Longhi, V.~Mokeev, G.~Ricco, M.~Ripani, V.~Sapunenko, et~al.
+\newblock \enquote{Response to cosmic rays of the large-angle electromagnetic
+  shower calorimeter of the CLAS detector.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 447, ~3:
+  (2000) 424--431.
+
+\bibitem[{Artikov et~al.(2006)Artikov, Budagov, Chirikov-Zorin, Chokheli,
+  Kolomoets, Lyablin, Pukhov, Sissakian, Bellettini, Menzione
+  et~al.}]{artikov2006new}
+Artikov, A., J.~Budagov, I.~Chirikov-Zorin, D.~Chokheli, V.~Kolomoets,
+  M.~Lyablin, O.~Pukhov, A.~Sissakian, G.~Bellettini, A.~Menzione, et~al.
+\newblock \enquote{New-generation large-area muon scintillation counters with
+  wavelength shifter fiber readout for CDF II.}
+\newblock \emph{Physics of Particles and Nuclei Letters} 3, ~3: (2006)
+  188--200.
+
+\bibitem[{Bali et~al.(1993)Bali, Schilling, Hulsebos, Irving, Michael,
+  Stephenson, Collaboration et~al.}]{bali1993comprehensive}
+Bali, G., K.~Schilling, A.~Hulsebos, A.~Irving, C.~Michael, P.~Stephenson,
+  U.~Collaboration, et~al.
+\newblock \enquote{A Comprehensive lattice study of SU (3) glueballs.}
+\newblock \emph{Physics Letters B} 309, ~3: (1993) 378--384.
+
+\bibitem[{Barbosa et~al.(2012)Barbosa, McKisson, McKisson, Qiang, Smith, Zorn,
+  Collaboration et~al.}]{barbosa2012silicon}
+Barbosa, F., J.~McKisson, J.~McKisson, Y.~Qiang, E.~Smith, C.~Zorn,
+  G.~Collaboration, et~al.
+\newblock \enquote{Silicon photomultiplier characterization for the GlueX
+  barrel calorimeter.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 695: (2012)
+  100--104.
+
+\bibitem[{Barsuk et~al.(2000{\natexlab{a}})Barsuk, Korolko, Malyshev, Rusinov,
+  Kirichenko, Tarkovski, and Golutvin}]{barsuk2000radiation}
+Barsuk, S., I.~Korolko, S.~Malyshev, V.~Y. Rusinov, V.~Kirichenko,
+  E.~Tarkovski, and A.~Golutvin.
+\newblock \enquote{Radiation damage of LHCb electromagnetic calorimeter.}
+\newblock Technical report, 2000{\natexlab{a}}.
+
+\bibitem[{Barsuk et~al.(2000{\natexlab{b}})Barsuk, Malyshev, Golutvin,
+  Kirichenko, Belyaev, Korolko, Tarkovski, and Rusinov}]{barsuk2000fiber}
+Barsuk, S., S.~Malyshev, A.~Golutvin, V.~Kirichenko, I.~Belyaev, I.~Korolko,
+  E.~Tarkovski, and V.~Y. Rusinov.
+\newblock \enquote{Fiber density and uniformity of response of LHCb
+  electromagnetic calorimeter.}
+\newblock Technical report, CERN-LHCb-2000-034, 2000{\natexlab{b}}.
+
+\bibitem[{Bross and Pla-Dalmau(1990)}]{bross1990radiation}
+Bross, A., and A.~Pla-Dalmau.
+\newblock \enquote{Radiation induced hidden absorption effects in polystyrene
+  based plastic scintillator.}
+\newblock In \emph{ACS Symp. Ser.} 1990, volume 475, 578--590.
+
+\bibitem[{Budd(2001)}]{budd2001cms}
+Budd, H.~S.
+\newblock \enquote{CMS central hadron calorimeter.}
+\newblock \emph{arXiv preprint hep-ex/0102032} .
+
+\bibitem[{Carman et~al.(1998)Carman, Dytman, Magahiz, Mestayer, Miskimen,
+  Mueller, Schumacher, Tedeschi, Thompson, and Wilkin}]{carman1998region}
+Carman, D., S.~Dytman, R.~Magahiz, M.~Mestayer, R.~Miskimen, J.~Mueller,
+  R.~Schumacher, D.~Tedeschi, R.~Thompson, and G.~Wilkin.
+\newblock \enquote{The Region One drift chamber for the CLAS spectrometer.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 419, ~2:
+  (1998) 315--319.
+
+\bibitem[{Chaloupka et~al.(1973)Chaloupka, Dobrzynski, Ferrando, Losty,
+  Montanet, Paul, Yaffe, and Zieminski}]{chaloupka1973measurement}
+Chaloupka, V., L.~Dobrzynski, A.~Ferrando, M.~J. Losty, L.~Montanet, E.~Paul,
+  D.~Yaffe, and A.~Zieminski.
+\newblock \enquote{A measurement of the branching ratios of the A 2- meson
+  produced in 3.9 GeV/c$\pi$- ϱ interactions.}
+\newblock \emph{Physics Letters B} 44, ~2: (1973) 211--216.
+
+\bibitem[{Clements(2006)}]{clements2006selection}
+Clements, A.
+\newblock \enquote{Selection of optical adhesives.}
+\newblock \emph{University of Arizona, PR China} .
+
+\bibitem[{Cohen-Tanugi et~al.(2003)Cohen-Tanugi, Convery, Ratcliff, Sarazin,
+  Schwiening, and Va'vra}]{cohen2003optical}
+Cohen-Tanugi, J., M.~Convery, B.~Ratcliff, X.~Sarazin, J.~Schwiening, and
+  J.~Va'vra.
+\newblock \enquote{Optical properties of the DIRC fused silica Cherenkov
+  radiator.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 515, ~3:
+  (2003) 680--700.
+
+\bibitem[{Cohen-Tanugi et~al.(2001)Cohen-Tanugi, Va'vra, Ratcliff, Sarazin,
+  Convery, and Schwiening}]{cohen2001optical}
+Cohen-Tanugi, J., J.~Va'vra, B.~Ratcliff, X.~Sarazin, M.~Convery, and
+  J.~Schwiening.
+\newblock \enquote{Optical properties of the DIRC fused silica Cherenkov
+  radiator.}
+\newblock \emph{ICFA Instrum. Bull.} 21,  SLAC-J-ICFA-021-3: (2001) 20--44.
+
+\bibitem[{Cohn et~al.(1993)Cohn, Efremenko, and
+  Tarkovsky}]{cohn1993scintillating}
+Cohn, H., Y.~Efremenko, and E.~Tarkovsky.
+\newblock \enquote{Scintillating Tiles Production and Light Readout.} .
+
+\bibitem[{Collaboration(2012)}]{FTTDR2012}
+Collaboration, F.~T.
+\newblock \enquote{CLAS12 Forward Tagger Technical Design Report, V2.0.}
+\newblock Technical report, Jefferson Laboratory, 2012.
+
+\bibitem[{Defoix et~al.(1973)Defoix, Dobrzynski, Espigat, Nascimente, O'Neall,
+  Rivet, and Siaud}]{defoix1973evidence}
+Defoix, C., L.~Dobrzynski, P.~Espigat, A.~Nascimente, J.~O'Neall, P.~Rivet, and
+  J.~Siaud.
+\newblock \enquote{Evidence for an $\omega$° $\pi$+ $\pi$- decay mode of the
+  A° 2 via an $\omega$° $\pi$$\pm$resonance at 1040 MeV and for an $\omega$°
+  $\pi$+ $\pi$- effect near 1400 MeV.}
+\newblock \emph{Physics Letters B} 43, ~2: (1973) 141--145.
+
+\bibitem[{Degtiarenko et~al.(2011)Degtiarenko, Fass{\`o}, Kharashvili, and
+  Somov}]{degtiarenko2011calculation}
+Degtiarenko, P., A.~Fass{\`o}, G.~Kharashvili, and A.~Somov.
+\newblock \enquote{Calculation of Radiation Damage to Silicon Photomultipliers
+  in GlueX Experiment.} .
+
+\bibitem[{Diaz et~al.(1974)Diaz, DiBianca, Fickinger, Malko, Robinson,
+  Sullivan, Anderson, Engler, Kraemer, Toaff et~al.}]{diaz1974evidence}
+Diaz, J., F.~DiBianca, W.~Fickinger, J.~Malko, D.~Robinson, C.~Sullivan,
+  J.~Anderson, A.~Engler, R.~Kraemer, S.~Toaff, et~al.
+\newblock \enquote{Evidence for the $\omega$ $\pi$ $\pi$ Decay Modes of the A 2
+  and $\omega$ (1675).}
+\newblock \emph{Physical Review Letters} 32, ~5: (1974) 260.
+
+\bibitem[{Dombey(1969)}]{dombey1969scattering}
+Dombey, N.
+\newblock \enquote{Scattering of polarized leptons at high energy.}
+\newblock \emph{Reviews of Modern Physics} 41, ~1: (1969) 236.
+
+\bibitem[{Dudek et~al.(2011)Dudek, Edwards, Orginos, and
+  Richards}]{dudek2011lattice}
+Dudek, J.~J., R.~G. Edwards, K.~Orginos, and D.~G. Richards.
+\newblock \enquote{Lattice QCD and the Jefferson Lab program.}
+\newblock In \emph{Journal of Physics: Conference Series}. IOP Publishing,
+  2011, volume 299, 012007.
+
+\bibitem[{Dyshkant et~al.(2006)Dyshkant, Beznosko, Blazey, Fisk, Hahn, Rykalin,
+  Wayne, and Zutshi}]{dyshkant2006quality}
+Dyshkant, A., D.~Beznosko, G.~Blazey, E.~Fisk, E.~Hahn, V.~Rykalin, M.~Wayne,
+  and V.~Zutshi.
+\newblock \enquote{Quality control studies of wavelength shifting fibers for a
+  scintillator-based tail catcher muon tracker for linear collider prototype
+  detector.}
+\newblock \emph{IEEE transactions on nuclear science} 53, ~6: (2006)
+  3944--3948.
+
+\bibitem[{Erni et~al.(2008)Erni, Keshelashvili, Krusche, Steinacher, Heng, Liu,
+  Liu, Shen, Wang, Xu et~al.}]{erni2008technical}
+Erni, W., I.~Keshelashvili, B.~Krusche, M.~Steinacher, Y.~Heng, Z.~Liu, H.~Liu,
+  X.~Shen, O.~Wang, H.~Xu, et~al.
+\newblock \enquote{Technical Design Report for PANDA Electromagnetic
+  Calorimeter (EMC).}
+\newblock \emph{arXiv preprint arXiv:0810.1216} .
+
+\bibitem[{Gallas and Li(1998)}]{gallas1998polishing}
+Gallas, E., and J.~Li.
+\newblock \enquote{Polishing optical fibers for the D0 ICD in Run II.}
+\newblock Technical report, FNAL-TM-2062, 1998.
+
+\bibitem[{Gola et~al.(2012)Gola, Tarolli, and Piemonte}]{gola2012sipm}
+Gola, A., A.~Tarolli, and C.~Piemonte.
+\newblock \enquote{SiPM cross-talk amplification due to scintillator crystal:
+  effects on timing performance.}
+\newblock In \emph{Nuclear Science Symposium and Medical Imaging Conference
+  (NSS/MIC), 2012 IEEE}. IEEE, 2012, 421--423.
+
+\bibitem[{Golovko et~al.(2008)Golovko, Iacob, and Hardy}]{golovko2008use}
+Golovko, V., V.~Iacob, and J.~Hardy.
+\newblock \enquote{The use of Geant4 for simulations of a plastic
+  $\beta$-detector and its application to efficiency calibration.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 594, ~2:
+  (2008) 266--272.
+
+\bibitem[{Hanlet et~al.(1999)Hanlet, Marcus, and Gallas}]{hanlet1999comparison}
+Hanlet, P., M.~Marcus, and E.~Gallas.
+\newblock \enquote{Comparison of fiber polishing techniques.}, 1999.
+
+\bibitem[{Jacosalem et~al.(2007)Jacosalem, Iba, Nakajima, Ono, Sanchez, Bacala,
+  Miyata et~al.}]{jacosalem2007systematic}
+Jacosalem, E., S.~Iba, N.~Nakajima, H.~Ono, A.~Sanchez, A.~Bacala, H.~Miyata,
+  et~al.
+\newblock \enquote{Systematic studies of small scintillators for new sampling
+  calorimeter.}
+\newblock \emph{Pramana} 69, ~6: (2007) 1051--1056.
+
+\bibitem[{Jaffe(1977)}]{jaffe1977multiquark}
+Jaffe, R.
+\newblock \enquote{Multiquark hadrons. I. Phenomenology of Q 2 Q 2 mesons.}
+\newblock \emph{Physical Review D} 15, ~1: (1977) 267.
+
+\bibitem[{Janecek(2012)}]{janecek2012reflectivity}
+Janecek, M.
+\newblock \enquote{Reflectivity spectra for commonly used reflectors.}
+\newblock \emph{IEEE Transactions on Nuclear Science} 59, ~3: (2012) 490--497.
+
+\bibitem[{Janecek and Moses(2008)}]{janecek2008optical}
+Janecek, M., and W.~W. Moses.
+\newblock \enquote{Optical reflectance measurements for commonly used
+  reflectors.}
+\newblock \emph{IEEE Transactions on Nuclear Science} 55, ~4: (2008)
+  2432--2437.
+
+\bibitem[{Johnson(1975)}]{johnson1975bag}
+Johnson, K.
+\newblock \enquote{The MIT bag model.}
+\newblock \emph{Acta Physica Polonica. Series B} 6, ~6: (1975) 865--892.
+
+\bibitem[{Joram and Schneider(2014)}]{joram2014mirroring}
+Joram, C., and T.~Schneider.
+\newblock \enquote{Mirroring of fibre ends for the LHCb SciFi project.}
+\newblock Technical report, 2014.
+
+\bibitem[{Karshon et~al.(1974)Karshon, Mikenberg, Pitluck, Eisenberg, Ronat,
+  Shapira, and Yekutieli}]{karshon1974structure}
+Karshon, U., G.~Mikenberg, S.~Pitluck, Y.~Eisenberg, E.~Ronat, A.~Shapira, and
+  G.~Yekutieli.
+\newblock \enquote{Structure in the $\omega$ $\pi$ $\pi$ System at the A 2 Mass
+  Region.}
+\newblock \emph{Physical Review Letters} 32, ~15: (1974) 852.
+
+\bibitem[{Kirn et~al.(1999)Kirn, Schmitz, Haering, and
+  Schulz}]{kirn1999absorption}
+Kirn, T., D.~Schmitz, M.~Haering, and W.~Schulz.
+\newblock \enquote{Absorption length, radiation hardness and ageing of
+  different optical glues.}
+\newblock Technical report, CERN-CMS-NOTE-1999-003, 1999.
+
+\bibitem[{Kobayashi et~al.(1991)Kobayashi, Ishimoto, Sugimoto, and
+  Kobayashi}]{kobayashi1991transmittance}
+Kobayashi, M., S.~Ishimoto, S.~Sugimoto, and S.~Kobayashi.
+\newblock \enquote{Transmittance and radiation resistivity of optical glues.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 305, ~2:
+  (1991) 401--405.
+
+\bibitem[{Leemann et~al.(2001)Leemann, Douglas, and
+  Krafft}]{leemann2001continuous}
+Leemann, C.~W., D.~R. Douglas, and G.~A. Krafft.
+\newblock \enquote{The continuous electron beam accelerator facility: CEBAF at
+  the Jefferson Laboratory.}
+\newblock \emph{Annual Review of Nuclear and Particle Science} 51, ~1: (2001)
+  413--450.
+
+\bibitem[{Lightfoot et~al.(2008)Lightfoot, Barker, Mavrokoridis, Ramachers, and
+  Spooner}]{lightfoot2008characterisation}
+Lightfoot, P., G.~J. Barker, K.~Mavrokoridis, Y.~Ramachers, and N.~Spooner.
+\newblock \enquote{Characterisation of a silicon photomultiplier device for
+  applications in liquid argon based neutrino physics and dark matter
+  searches.}
+\newblock \emph{Journal of Instrumentation} 3, ~10: (2008) P10,001.
+
+\bibitem[{Mazzitelli et~al.(2003)Mazzitelli, Ghigo, Sannibale, Valente, and
+  Vignola}]{mazzitelli2003commissioning}
+Mazzitelli, G., A.~Ghigo, F.~Sannibale, P.~Valente, and G.~Vignola.
+\newblock \enquote{Commissioning of the DA$\Phi$NE beam test facility.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 515, ~3:
+  (2003) 524--542.
+
+\bibitem[{Mecking et~al.(2003)Mecking, Adams, Ahmad, Anciant, Anghinolfi,
+  Asavapibhop, Asryan, Audit, Auger, Avakian et~al.}]{mecking2003cebaf}
+Mecking, B.~A., G.~Adams, S.~Ahmad, E.~Anciant, M.~Anghinolfi, B.~Asavapibhop,
+  G.~Asryan, G.~Audit, T.~Auger, H.~Avakian, et~al.
+\newblock \enquote{The CEBAF large acceptance spectrometer (CLAS).}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 503, ~3:
+  (2003) 513--553.
+
+\bibitem[{Mestayer et~al.(2000)Mestayer, Carman, Asavapibhop, Barbosa, Bonneau,
+  Christo, Dodge, Dooling, Duncan, Dytman et~al.}]{mestayer2000clas}
+Mestayer, M., D.~Carman, B.~Asavapibhop, F.~Barbosa, P.~Bonneau, S.~Christo,
+  G.~Dodge, T.~Dooling, W.~Duncan, S.~Dytman, et~al.
+\newblock \enquote{The CLAS drift chamber system.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 449, ~1:
+  (2000) 81--111.
+
+\bibitem[{Montecchi and Ingram(2001)}]{montecchi2001study}
+Montecchi, M., and Q.~Ingram.
+\newblock \enquote{Study of some optical glues for the Compact Muon Solenoid at
+  the large hadron collider of CERN.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 465, ~2:
+  (2001) 329--345.
+
+\bibitem[{O'Meara et~al.(1989)O'Meara, Alcorn, Brindza, Chew, Doolittle,
+  Fowler, Mecking, Riggs, Tilles, and Tuzel}]{o1989superconducting}
+O'Meara, J., J.~Alcorn, P.~Brindza, M.-S. Chew, G.~Doolittle, M.~Fowler,
+  B.~Mecking, C.~Riggs, D.~Tilles, and W.~Tuzel.
+\newblock \enquote{A superconducting toroidal magnet for the CEBAF large
+  acceptance spectrometer.}
+\newblock \emph{IEEE Transactions on Magnetics} 25, ~2: (1989) 1902--1905.
+
+\bibitem[{Protopopov and Vasilchenko(1993)}]{protopopov1993radiation}
+Protopopov, Y., and V.~Vasilchenko.
+\newblock \enquote{Radiation damage on plastic scintillators and optical
+  fibers.}
+\newblock Technical report, P00023169, 1993.
+
+\bibitem[{Qiang et~al.(2015)Qiang, Collaboration et~al.}]{qiang2015detector}
+Qiang, Y., S.~Collaboration, et~al.
+\newblock \enquote{Detector development for Jefferson Lab’s 12GeV Upgrade.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms} 350: (2015) 71--76.
+
+\bibitem[{Qin et~al.(1998)Qin, Raue, Dodge, Hyde-Wright, Klein, Kuhn, Pyron,
+  Vansyoc, Weinstein, and Yun}]{qin1998prototype}
+Qin, L., B.~Raue, G.~Dodge, C.~Hyde-Wright, A.~Klein, S.~Kuhn, T.~Pyron,
+  K.~Vansyoc, L.~Weinstein, and J.~Yun.
+\newblock \enquote{Prototype studies and design considerations for the CLAS
+  Region 2 drift chambers.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 411,  2-3:
+  (1998) 265--274.
+
+\bibitem[{Reiche(2001)}]{reiche2001studies}
+Reiche, S.
+\newblock \enquote{Studies for the Optical Read-Out of a Hadronic
+  Tile-Fibre-Calorimeter for TESLA.}
+\newblock \emph{University of Hamburg (Nov. 2001)} .
+
+\bibitem[{Schilling and Wolf(1973)}]{schilling1973analyse}
+Schilling, K., and G.~Wolf.
+\newblock \enquote{How to analyse vector-meson production in inelastic lepton
+  scattering.}
+\newblock \emph{Nuclear Physics B} 61: (1973) 381--413.
+
+\bibitem[{Smith et~al.(1999)Smith, Carstens, Distelbrink, Eckhause, Egiyan,
+  Elouadrhiri, Ficenec, Guidal, Hancock, Hersman et~al.}]{smith1999time}
+Smith, E., T.~Carstens, J.~Distelbrink, M.~Eckhause, H.~Egiyan, L.~Elouadrhiri,
+  J.~Ficenec, M.~Guidal, A.~Hancock, F.~Hersman, et~al.
+\newblock \enquote{The time-of-flight system for CLAS.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 432, ~2:
+  (1999) 265--298.
+
+\bibitem[{Sober et~al.(2000)Sober, Crannell, Longhi, Matthews, O'Brien, Berman,
+  Briscoe, Cole, Connelly, Dodge et~al.}]{sober2000bremsstrahlung}
+Sober, D., H.~Crannell, A.~Longhi, S.~Matthews, J.~O'Brien, B.~Berman,
+  W.~Briscoe, P.~L. Cole, J.~Connelly, W.~Dodge, et~al.
+\newblock \enquote{The bremsstrahlung tagged photon beam in Hall B at JLab.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 440, ~2:
+  (2000) 263--284.
+
+\bibitem[{Stepanyan et~al.()}]{stepanyan2008clas}
+Stepanyan, S., et~al.
+\newblock \enquote{CLAS Note 2009-019; S. Stepanyan et. al.}
+\newblock In \emph{2008 IEEE nuclear Science Symposium and Medical imaging
+  Conference}.
+
+\bibitem[{Street et~al.(1996)Street, Ross, Harrison, Jenkins, Mason, Riggs,
+  Smith, Wiatrzyk, O'Meara, Tuzel et~al.}]{street1996final}
+Street, A.~J., J.~S. Ross, S.~M. Harrison, D.~M. Jenkins, M.~F. Mason, R.~J.
+  Riggs, K.~D. Smith, J.~M. Wiatrzyk, J.~E. O'Meara, W.~Tuzel, et~al.
+\newblock \enquote{Final site assembly and testing of the superconducting
+  toroidal magnet for the CEBAF Large Acceptance Spectrometer (CLAS).}
+\newblock Technical report, Thomas Jefferson National Accelerator Facility,
+  1996.
+
+\bibitem[{Taylor et~al.(2001)Taylor, Ahmad, Distelbrink, Mutchler, Smith, and
+  Smith}]{taylor2001clas}
+Taylor, S., S.~Ahmad, J.~Distelbrink, G.~Mutchler, E.~Smith, and T.~Smith.
+\newblock \enquote{The CLAS start counter.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 462, ~3:
+  (2001) 484--493.
+
+\bibitem[{Va’vra(2014)}]{va2014optical}
+Va’vra, J.
+\newblock \enquote{Optical properties of RICH detectors.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 766: (2014)
+  189--198.
+
+\bibitem[{Weidner and Hsia(1981)}]{weidner1981reflection}
+Weidner, V.~R., and J.~J. Hsia.
+\newblock \enquote{Reflection properties of pressed polytetrafluoroethylene
+  powder.}
+\newblock \emph{JOSA} 71, ~7: (1981) 856--861.
+
+\bibitem[{Wojcik et~al.(1994)Wojcik, Kross, Majewski, Weisenberger, and
+  Zorn}]{wojcik1994embedded}
+Wojcik, R., B.~Kross, S.~Majewski, A.~Weisenberger, and C.~Zorn.
+\newblock \enquote{Embedded waveshifting fiber readout of long scintillators.}
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment} 342,  2-3:
+  (1994) 416--435.
+
+\bibitem[{Zhou et~al.(2007)Zhou, collaboration et~al.}]{zhou2007phos}
+Zhou, D., A.~collaboration, et~al.
+\newblock \enquote{PHOS, the ALICE-PHOton spectrometer.}
+\newblock \emph{Journal of Physics G: Nuclear and Particle Physics} 34, ~8:
+  (2007) S719.
+
+\end{thebibliography}
